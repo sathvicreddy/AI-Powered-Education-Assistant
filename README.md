@@ -116,7 +116,6 @@ The AI Education Assistant has great potential for expansion. Here are a few enh
 
 These improvements would help the application serve a wider audience and deepen its educational value.
 
-## [FLOW CHART PLACEHOLDER 5]
 
 ## Conclusion
 
